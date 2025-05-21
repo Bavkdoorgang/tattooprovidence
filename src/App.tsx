@@ -1,5 +1,5 @@
 // import Four from './assets/four.jpeg'
-import One from './assets/one.jpeg'
+import One from './assets/one.jpg'
 // import Two from './assets/two.jpeg'
 // import Three from './assets/three.jpeg'
 

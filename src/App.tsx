@@ -22,7 +22,7 @@ const navigate = useNavigate()
     <main className='flex items-center justify-center w-screen min-h-screen flex-col'>
       <div className="wrapper">
         <header>
-          <center><img src="https://cdn-icons-png.flaticon.com/512/927/927295.png" style={{ width: '9%' }} alt="Vote" />Vote Your Favourite Tattoo Shop!</center>
+          <center><img src="https://cdn-icons-png.flaticon.com/512/927/927295.png" style={{ width: '9%' }} alt="Vote" />Vote Your Favourite Pizza Tattoo Shop!</center>
         </header>
         <div className="poll-area" id="hidden">
           <input type="checkbox" name="poll" id="opt-1" />
@@ -34,7 +34,7 @@ const navigate = useNavigate()
             <div className="row">
               <div className="column">
                 <span className="circle"></span>
-                <span className="text">Inknation Studio</span>
+                <span className="text">ZALAT PIZZA</span>
               </div>
               <span className="percent">36%</span>
             </div>
